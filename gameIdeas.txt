@@ -1,0 +1,5 @@
+Game idea 1. : (28.10.2024)
+Dej hry sa bude odohrávať v lese. Postavička bude mať dreveny dom. Bude plniť uhohy v lese a v dome. 
+Bude mocť strieľať zo zbraní po zvieratách. Na oblohe budú vtáci, ktoré budeš môcť tiež zastreliť. 
+Les bude asi tvorený low poly modelov, čiže nie zložitých aby som to stihol dokončiť. Pri rieke bude mocť
+hráč rybárčiť ryby. 
